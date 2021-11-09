@@ -1,0 +1,32 @@
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.exe
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.json
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.dev.json
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+C:\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+C:\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.genruntimeconfig.cache
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.exe
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.json
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.dev.json
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+C:\TDD\Sajitha GitHub\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.genruntimeconfig.cache
